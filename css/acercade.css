@@ -1,0 +1,23 @@
+*{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h2{ font-family:'Times New Roman'; color: aquamarine;}
+.card{background-color: rgb(212, 212, 184);}
+article{
+    margin: 0.5em 3em 0em 0em;
+    padding: 0.5em 2em;
+    background-color: palevioletred;
+    border: 10px solid blueviolet;
+}
+aside{
+    width: 35%;
+    float: left;
+    background-color: rgb(92, 21, 184);
+}
+footer{
+    background-color: cornflowerblue;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    padding: 45px;
+    margin: 10px;
+    clear: both;
+}

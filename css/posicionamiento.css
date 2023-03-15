@@ -1,0 +1,24 @@
+.box{width: 100px; /*Ancho*/
+    height: 100px;/*Altura*/
+    background: pink; /*Fondo*/
+    color: white;/*Color texto*/
+}
+#two{
+    position: absolute; /*static relative sticky absolute fixed*/
+    top: 20px;
+    left: 20px;
+    background: palevioletred;
+}
+.texto1{
+    width: 600px;
+    height: 400px;
+    overflow: visible; /*visible hidden scroll auto */
+    padding-left: 150px;
+}
+#three{
+    position: relative; /* absulute static relative sticky absolute fixed*/
+    overflow: scroll;
+    top: 20px;
+    left: 20px;
+    background: rgb(220, 54, 109);
+}

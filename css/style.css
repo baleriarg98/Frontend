@@ -1,0 +1,16 @@
+nav{background-color: cadetblue; 
+width:auto;
+height: 50px;
+word-spacing: 10px;
+text-align: center;
+padding: 25px;
+margin: 10px;}
+a{ text-decoration: none;
+color: beige;
+font-family: 'Courier New', Courier, monospace;
+font-size: 15px;}
+a: :hover{
+    background-color: rgb(4, 78, 78);
+    border-radius: 20px;
+    padding: 15px;
+}
